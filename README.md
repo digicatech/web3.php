@@ -17,13 +17,13 @@ Set minimum stability to dev
 
 Then
 ```
-composer require digicatech/web3.php dev-master
+composer require digicatech/web3.php dev-main
 ```
 
 Or you can add this line in composer.json
 
 ```
-"digicatech/web3.php": "dev-master"
+"digicatech/web3.php": "dev-main"
 ```
 
 
